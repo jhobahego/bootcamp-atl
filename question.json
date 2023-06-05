@@ -1,7 +1,73 @@
 {
-  "category": "Geografía",
-  "question": "¿Cuál es la capital de Francia?",
-  "options": ["Roma", "Madrid", "París"],
-  "answer": 2,
-  "explanation": "La capital de Francia es París. Esta ciudad es famosa por su cultura, arquitectura icónica y atracciones turísticas como la Torre Eiffel y el Museo del Louvre."
+  "categories": [
+    {
+      "category": "Geografía",
+      "description": "Preguntas relacionadas con países, ciudades, geografía física y otros aspectos geográficos."
+    },
+    {
+      "category": "Tecnología",
+      "description": "Preguntas relacionadas con dispositivos, software, innovaciones tecnológicas y temas relacionados."
+    },
+    {
+      "category": "Gastronomía",
+      "description": "Preguntas relacionadas con alimentos, cocina, recetas y otros temas culinarios."
+    },
+    {
+      "category": "Literatura",
+      "description": "Preguntas relacionadas con libros, autores, géneros literarios y otras formas de expresión escrita."
+    },
+    {
+      "category": "Música",
+      "description": "Preguntas relacionadas con géneros musicales, artistas, instrumentos y otros aspectos musicales."
+    },
+    {
+      "category": "Deportes",
+      "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    }
+  ],
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Cuál es la capital de Italia?",
+      "options": ["Roma", "Madrid", "París"],
+      "answer": 0,
+      "explanation": "La capital de Italia es Roma. Esta antigua ciudad es conocida por su rica historia, arte y arquitectura, incluyendo emblemáticos sitios como el Coliseo, el Foro Romano y la Capilla Sixtina."
+    },
+    {
+      "category": "Tecnología",
+      "question": "¿Quién inventó el teléfono?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla"],
+      "answer": 1,
+      "explanation": "El teléfono fue inventado por Alexander Graham Bell. Bell es reconocido como uno de los pioneros en el desarrollo de la tecnología de las comunicaciones y su invención del teléfono tuvo un gran impacto en la sociedad y las comunicaciones modernas."
+    },
+    {
+      "category": "Gastronomía",
+      "question": "¿Cuál es el plato nacional de México?",
+      "options": ["Tacos", "Pizza", "Sushi"],
+      "answer": 0,
+      "explanation": "El plato nacional de México son los tacos. Los tacos son tortillas de maíz o harina rellenas de diversos ingredientes, como carne, pollo, pescado, verduras, entre otros, y son una parte fundamental de la gastronomía mexicana."
+    },
+    {
+      "category": "Literatura",
+      "question": "¿Quién escribió el libro 'Cien años de soledad'?",
+      "options": ["Mario Vargas Llosa", "Gabriel García Márquez", "Julio Cortázar"],
+      "answer": 1,
+      "explanation": "'Cien años de soledad' fue escrito por Gabriel García Márquez. Esta obra es considerada una de las obras maestras de la literatura latinoamericana y ha sido ampliamente elogiada por su estilo único y su narrativa envolvente."
+    },
+    {
+      "category": "Música",
+      "question": "¿Quién es el vocalista de la banda de rock 'Queen'?",
+      "options": ["Freddie Mercury", "John Lennon", "Mick Jagger"],
+      "answer": 0,
+      "explanation": "El vocalista de la banda de rock 'Queen' es Freddie Mercury. Mercury es reconocido como uno de los mejores cantantes de todos los tiempos y su carisma en el escenario y su impresionante rango vocal hicieron de Queen una banda legendaria en la historia de la música."
+    },
+    {
+      "category": "Deportes",
+      "question": "¿En qué deporte se utiliza una raqueta para golpear una pelota sobre una red?",
+      "options": ["Fútbol", "Tenis", "Baloncesto"],
+      "answer": 1,
+      "explanation": "En el tenis se utiliza una raqueta para golpear una pelota sobre una red. El tenis es un deporte popular en el que los jugadores compiten individualmente o en parejas, y el objetivo es ganar puntos golpeando la pelota dentro del campo contrario, sin que rebote más de una vez."
+    }
+  ]
 }
+
