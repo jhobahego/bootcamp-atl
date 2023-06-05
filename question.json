@@ -62,6 +62,13 @@
       "explanation": "El vocalista de la banda de rock 'Queen' es Freddie Mercury. Mercury es reconocido como uno de los mejores cantantes de todos los tiempos y su carisma en el escenario y su impresionante rango vocal hicieron de Queen una banda legendaria en la historia de la música."
     },
     {
+      "category": "Cine",
+      "question": "¿Quién es el protagonista de la pelicula 'Piratas del caribe'?",
+      "options": ["Johnny Depp", "Tom Cruse", "Bad Bany"],
+      "answer": 0,
+      "explanation": "Pelicula de ciencia ficción"
+    },
+    {
       "category": "Deportes",
       "question": "¿En qué deporte se utiliza una raqueta para golpear una pelota sobre una red?",
       "options": ["Fútbol", "Tenis", "Baloncesto"],
