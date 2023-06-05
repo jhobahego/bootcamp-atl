@@ -74,6 +74,34 @@
       "options": ["Fútbol", "Tenis", "Baloncesto"],
       "answer": 1,
       "explanation": "En el tenis se utiliza una raqueta para golpear una pelota sobre una red. El tenis es un deporte popular en el que los jugadores compiten individualmente o en parejas, y el objetivo es ganar puntos golpeando la pelota dentro del campo contrario, sin que rebote más de una vez."
+    },
+    {
+      "category": "Deportes",
+      "question": "¿En qué año se celebró la primera Copa Mundial de Fútbol?",
+      "options": ["1930", "1950", "1970"],
+      "answer": 0,
+      "explanation": "La primera Copa Mundial de Fútbol se celebró en el año 1930. El torneo tuvo lugar en Uruguay y contó con la participación de 13 equipos."
+    },
+    {
+      "category": "Deportes",
+      "question": "¿Cuál es el deporte más popular en Estados Unidos?",
+      "options": ["Fútbol americano", "Béisbol", "Baloncesto"],
+      "answer": 0,
+      "explanation": "El deporte más popular en Estados Unidos es el fútbol americano. La National Football League (NFL) es la liga profesional más importante de este deporte en el país."
+    },
+    {
+      "category": "Deportes",
+      "question": "¿Quién es considerado el mejor jugador de baloncesto de todos los tiempos?",
+      "options": ["Michael Jordan", "LeBron James", "Kobe Bryant"],
+      "answer": 0,
+      "explanation": "Michael Jordan es considerado el mejor jugador de baloncesto de todos los tiempos. Durante su carrera, Jordan ganó 6 campeonatos de la NBA y fue reconocido con numerosos premios y distinciones individuales."
+    },
+    {
+      "category": "Deportes",
+      "question": "¿En qué deporte se utiliza un disco volador llamado Frisbee?",
+      "options": ["Ultimate Frisbee", "Golf", "Tenis"],
+      "answer": 0,
+      "explanation": "El Ultimate Frisbee es el deporte en el que se utiliza un disco volador llamado Frisbee. Es un juego de equipo que combina elementos del fútbol, el baloncesto y el fútbol americano."
     }
   ]
 }
