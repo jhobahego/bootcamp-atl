@@ -27,4 +27,12 @@
     "category": "Cultura",
     "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
   }
+  {
+    "category": "Arte",
+    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+  },
+  {
+    "category": "Cine",
+    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+  }
 ]
