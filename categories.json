@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con países, ciudades, geografía física y otros aspectos geográficos."
+  },
+  {
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con dispositivos, software, innovaciones tecnológicas y temas relacionados."
+  },
+  {
+    "category": "Gastronomía",
+    "description": "Preguntas relacionadas con alimentos, cocina, recetas y otros temas culinarios."
+  },
+  {
+    "category": "Literatura",
+    "description": "Preguntas relacionadas con libros, autores, géneros literarios y otras formas de expresión escrita."
+  },
+  {
+    "category": "Música",
+    "description": "Preguntas relacionadas con géneros musicales, artistas, instrumentos y otros aspectos musicales."
+  },
+  {
+    "category": "Deportes",
+    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+  }
+]
