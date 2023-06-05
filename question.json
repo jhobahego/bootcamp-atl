@@ -1,0 +1,7 @@
+{
+  "category": "Geografía",
+  "question": "¿Cuál es la capital de Francia?",
+  "options": ["Roma", "Madrid", "París"],
+  "answer": 2,
+  "explanation": "La capital de Francia es París. Esta ciudad es famosa por su cultura, arquitectura icónica y atracciones turísticas como la Torre Eiffel y el Museo del Louvre."
+}
