@@ -20,6 +20,20 @@
       "category": "Música",
       "description": "Preguntas relacionadas con géneros musicales, artistas, instrumentos y otros aspectos musicales."
     },
+     {
+      "category": "Música",
+      "question": "¿Cuál es el álbum más vendido de todos los tiempos?",
+      "options": ["Thriller", "Back in Black", "The Dark Side of the Moon", "Bat Out of Hell"],
+      "answer": 0,
+      "explanation": "El álbum más vendido de todos los tiempos es 'Thriller' de Michael Jackson, que ha vendido más de 66 millones de copias en todo el mundo desde su lanzamiento en 1982."
+    },
+    {
+      "category": "Música",
+      "question": "¿Quién es considerado el rey del pop?",
+      "options": ["Michael Jackson", "Elvis Presley", "Madonna", "Prince"],
+      "answer": 0,
+      "explanation": "Michael Jackson es considerado el rey del pop. Su impacto en la música, su innovación en el baile y su amplia influencia en la cultura popular le han otorgado ese título."
+    }
     {
       "category": "Deportes",
       "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
