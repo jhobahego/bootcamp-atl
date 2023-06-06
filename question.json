@@ -41,6 +41,13 @@
       "explanation": "El teléfono fue inventado por Alexander Graham Bell. Bell es reconocido como uno de los pioneros en el desarrollo de la tecnología de las comunicaciones y su invención del teléfono tuvo un gran impacto en la sociedad y las comunicaciones modernas."
     },
     {
+      "category": "Tecnología",
+      "question": "¿Cuál es el emoji más usado en el mundo?",
+      "options": ["El del beso", "El de la sonrisa", "El que llora"],
+      "answer": 1,
+      "explanation": "El emoji del beso es el mas usado por todo el mundo"
+    }
+    {
       "category": "Gastronomía",
       "question": "¿Cuál es el plato nacional de México?",
       "options": ["Tacos", "Pizza", "Sushi"],
@@ -66,7 +73,28 @@
       "question": "¿Quién es el protagonista de la pelicula 'Piratas del caribe'?",
       "options": ["Johnny Depp", "Tom Cruse", "Bad Bany"],
       "answer": 0,
-      "explanation": "Pelicula de ciencia ficción"
+      "explanation": "El protagonista es Johnny Depp"
+    },
+    {
+      "category": "Cine",
+      "question": "¿En que año salio la pelicula 'Titanic'?",
+      "options": ["1997", "2023", "1991"],
+      "answer": 0,
+      "explanation": "La pelicula se estreno en el año 1997"
+    },
+    {
+      "category": "Cine",
+      "question": "¿Quién protagoniza Pretty Woman?",
+      "options": ["Richard Gere", "Nicholas Cage", "Nick Nolte"],
+      "answer": 0,
+      "explanation": "El protagonista es Richard Gere"
+    },
+    {
+      "category": "Cine",
+      "question": "¿¿En qué año se estreno Matrix??",
+      "options": ["1997", "1999", "2002"],
+      "answer": 0,
+      "explanation": "Matrix se estreno en 1999"
     },
     {
       "category": "Deportes",
