@@ -1,0 +1,150 @@
+{
+  "categories": [
+    {
+      "category": "Geografía",
+      "description": "Preguntas relacionadas con países, ciudades, geografía física y otros aspectos geográficos."
+    },
+    {
+      "category": "Tecnología",
+      "description": "Preguntas relacionadas con dispositivos, software, innovaciones tecnológicas y temas relacionados."
+    },
+    {
+      "category": "Gastronomía",
+      "description": "Preguntas relacionadas con alimentos, cocina, recetas y otros temas culinarios."
+    },
+    {
+      "category": "Literatura",
+      "description": "Preguntas relacionadas con libros, autores, géneros literarios y otras formas de expresión escrita."
+    },
+    {
+      "category": "Música",
+      "description": "Preguntas relacionadas con géneros musicales, artistas, instrumentos y otros aspectos musicales."
+    },
+     {
+      "category": "Música",
+      "question": "¿Cuál es el álbum más vendido de todos los tiempos?",
+      "options": ["Thriller", "Back in Black", "The Dark Side of the Moon", "Bat Out of Hell"],
+      "answer": 0,
+      "explanation": "El álbum más vendido de todos los tiempos es 'Thriller' de Michael Jackson, que ha vendido más de 66 millones de copias en todo el mundo desde su lanzamiento en 1982."
+    },
+    {
+      "category": "Música",
+      "question": "¿Quién es considerado el rey del pop?",
+      "options": ["Michael Jackson", "Elvis Presley", "Madonna", "Prince"],
+      "answer": 0,
+      "explanation": "Michael Jackson es considerado el rey del pop. Su impacto en la música, su innovación en el baile y su amplia influencia en la cultura popular le han otorgado ese título."
+    }
+    {
+      "category": "Deportes",
+      "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    }
+  ],
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Cuál es la capital de Italia?",
+      "options": ["Roma", "Madrid", "París"],
+      "answer": 0,
+      "explanation": "La capital de Italia es Roma. Esta antigua ciudad es conocida por su rica historia, arte y arquitectura, incluyendo emblemáticos sitios como el Coliseo, el Foro Romano y la Capilla Sixtina."
+    },
+    {
+      "category": "Tecnología",
+      "question": "¿Quién inventó el teléfono?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla"],
+      "answer": 1,
+      "explanation": "El teléfono fue inventado por Alexander Graham Bell. Bell es reconocido como uno de los pioneros en el desarrollo de la tecnología de las comunicaciones y su invención del teléfono tuvo un gran impacto en la sociedad y las comunicaciones modernas."
+    },
+    {
+      "category": "Tecnología",
+      "question": "¿Cuál es el emoji más usado en el mundo?",
+      "options": ["El del beso", "El de la sonrisa", "El que llora"],
+      "answer": 1,
+      "explanation": "El emoji del beso es el mas usado por todo el mundo"
+    }
+    {
+      "category": "Gastronomía",
+      "question": "¿Cuál es el plato nacional de México?",
+      "options": ["Tacos", "Pizza", "Sushi"],
+      "answer": 0,
+      "explanation": "El plato nacional de México son los tacos. Los tacos son tortillas de maíz o harina rellenas de diversos ingredientes, como carne, pollo, pescado, verduras, entre otros, y son una parte fundamental de la gastronomía mexicana."
+    },
+    {
+      "category": "Literatura",
+      "question": "¿Quién escribió el libro 'Cien años de soledad'?",
+      "options": ["Mario Vargas Llosa", "Gabriel García Márquez", "Julio Cortázar"],
+      "answer": 1,
+      "explanation": "'Cien años de soledad' fue escrito por Gabriel García Márquez. Esta obra es considerada una de las obras maestras de la literatura latinoamericana y ha sido ampliamente elogiada por su estilo único y su narrativa envolvente."
+    },
+    {
+      "category": "Música",
+      "question": "¿Quién es el vocalista de la banda de rock 'Queen'?",
+      "options": ["Freddie Mercury", "John Lennon", "Mick Jagger"],
+      "answer": 0,
+      "explanation": "El vocalista de la banda de rock 'Queen' es Freddie Mercury. Mercury es reconocido como uno de los mejores cantantes de todos los tiempos y su carisma en el escenario y su impresionante rango vocal hicieron de Queen una banda legendaria en la historia de la música."
+    },
+    {
+      "category": "Cine",
+      "question": "¿Quién es el protagonista de la pelicula 'Piratas del caribe'?",
+      "options": ["Johnny Depp", "Tom Cruse", "Bad Bany"],
+      "answer": 0,
+      "explanation": "El protagonista es Johnny Depp"
+    },
+    {
+      "category": "Cine",
+      "question": "¿En que año salio la pelicula 'Titanic'?",
+      "options": ["1997", "2023", "1991"],
+      "answer": 0,
+      "explanation": "La pelicula se estreno en el año 1997"
+    },
+    {
+      "category": "Cine",
+      "question": "¿Quién protagoniza Pretty Woman?",
+      "options": ["Richard Gere", "Nicholas Cage", "Nick Nolte"],
+      "answer": 0,
+      "explanation": "El protagonista es Richard Gere"
+    },
+    {
+      "category": "Cine",
+      "question": "¿¿En qué año se estreno Matrix??",
+      "options": ["1997", "1999", "2002"],
+      "answer": 0,
+      "explanation": "Matrix se estreno en 1999"
+    },
+    {
+      "category": "Deportes",
+      "question": "¿En qué deporte se utiliza una raqueta para golpear una pelota sobre una red?",
+      "options": ["Fútbol", "Tenis", "Baloncesto"],
+      "answer": 1,
+      "explanation": "En el tenis se utiliza una raqueta para golpear una pelota sobre una red. El tenis es un deporte popular en el que los jugadores compiten individualmente o en parejas, y el objetivo es ganar puntos golpeando la pelota dentro del campo contrario, sin que rebote más de una vez."
+    },
+    {
+      "category": "Deportes",
+      "question": "¿En qué año se celebró la primera Copa Mundial de Fútbol?",
+      "options": ["1930", "1950", "1970"],
+      "answer": 0,
+      "explanation": "La primera Copa Mundial de Fútbol se celebró en el año 1930. El torneo tuvo lugar en Uruguay y contó con la participación de 13 equipos."
+    },
+    {
+      "category": "Deportes",
+      "question": "¿Cuál es el deporte más popular en Estados Unidos?",
+      "options": ["Fútbol americano", "Béisbol", "Baloncesto"],
+      "answer": 0,
+      "explanation": "El deporte más popular en Estados Unidos es el fútbol americano. La National Football League (NFL) es la liga profesional más importante de este deporte en el país."
+    },
+    {
+      "category": "Deportes",
+      "question": "¿Quién es considerado el mejor jugador de baloncesto de todos los tiempos?",
+      "options": ["Michael Jordan", "LeBron James", "Kobe Bryant"],
+      "answer": 0,
+      "explanation": "Michael Jordan es considerado el mejor jugador de baloncesto de todos los tiempos. Durante su carrera, Jordan ganó 6 campeonatos de la NBA y fue reconocido con numerosos premios y distinciones individuales."
+    },
+    {
+      "category": "Deportes",
+      "question": "¿En qué deporte se utiliza un disco volador llamado Frisbee?",
+      "options": ["Ultimate Frisbee", "Golf", "Tenis"],
+      "answer": 0,
+      "explanation": "El Ultimate Frisbee es el deporte en el que se utiliza un disco volador llamado Frisbee. Es un juego de equipo que combina elementos del fútbol, el baloncesto y el fútbol americano."
+    }
+  ]
+}
+
